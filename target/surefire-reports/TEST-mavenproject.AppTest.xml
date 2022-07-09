@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="mavenproject.AppTest" time="0.082" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="mavenproject.AppTest" time="0.102" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Welcome\AppData\Local\Temp\surefire794812340664195947\surefirebooter2416064085811396864.jar C:\Users\Welcome\AppData\Local\Temp\surefire794812340664195947 2022-07-09T03-26-38_989-jvmRun1 surefire4404924598322979275tmp surefire_02156054335798600286tmp"/>
+    <property name="sun.java.command" value="C:\Users\Welcome\AppData\Local\Temp\surefire5324539281593941376\surefirebooter1636671788416133366.jar C:\Users\Welcome\AppData\Local\Temp\surefire5324539281593941376 2022-07-09T03-28-31_103-jvmRun1 surefire8769262392292295869tmp surefire_09072309600353839996tmp"/>
     <property name="surefire.test.class.path" value="C:\Windows\System32\webmavenproject\target\test-classes;C:\Windows\System32\webmavenproject\target\classes;C:\Users\Welcome\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Welcome\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\googlewebcomponents\google-map\2.0.5\google-map-2.0.5.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\polymer\polymer\2.8.0\polymer-2.8.0.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\webcomponents\shadycss\1.9.1\shadycss-1.9.1.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\webcomponents\webcomponentsjs\2.0.0-beta.3\webcomponentsjs-2.0.0-beta.3.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\googlewebcomponents\google-apis\2.0.2\google-apis-2.0.2.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\polymerelements\iron-jsonp-library\2.1.0\iron-jsonp-library-2.1.0.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\polymerelements\iron-resizable-behavior\2.1.1\iron-resizable-behavior-2.1.1.jar;C:\Users\Welcome\.m2\repository\org\webjars\bowergithub\polymerelements\iron-selector\2.1.0\iron-selector-2.1.0.jar;C:\Users\Welcome\.m2\repository\org\testcontainers\mysql\1.17.3\mysql-1.17.3.jar;C:\Users\Welcome\.m2\repository\org\testcontainers\jdbc\1.17.3\jdbc-1.17.3.jar;C:\Users\Welcome\.m2\repository\org\testcontainers\database-commons\1.17.3\database-commons-1.17.3.jar;C:\Users\Welcome\.m2\repository\org\testcontainers\testcontainers\1.17.3\testcontainers-1.17.3.jar;C:\Users\Welcome\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Welcome\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\Welcome\.m2\repository\org\rnorth\duct-tape\duct-tape\1.0.8\duct-tape-1.0.8.jar;C:\Users\Welcome\.m2\repository\org\jetbrains\annotations\17.0.0\annotations-17.0.0.jar;C:\Users\Welcome\.m2\repository\com\github\docker-java\docker-java-api\3.2.13\docker-java-api-3.2.13.jar;C:\Users\Welcome\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\Welcome\.m2\repository\com\github\docker-java\docker-java-transport-zerodep\3.2.13\docker-java-transport-zerodep-3.2.13.jar;C:\Users\Welcome\.m2\repository\com\github\docker-java\docker-java-transport\3.2.13\docker-java-transport-3.2.13.jar;C:\Users\Welcome\.m2\repository\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Welcome"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Welcome\AppData\Local\Temp\surefire794812340664195947\surefirebooter2416064085811396864.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Welcome\AppData\Local\Temp\surefire5324539281593941376\surefirebooter1636671788416133366.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="mavenproject.AppTest" time="0"/>
+  <testcase name="shouldAnswerWithTrue" classname="mavenproject.AppTest" time="0.01"/>
 </testsuite>
